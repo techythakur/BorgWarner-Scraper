@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+langchain
+langchain_community
+langchain-huggingface 
+sentence-transformers
+langchain-chroma
