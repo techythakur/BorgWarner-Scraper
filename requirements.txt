@@ -1,0 +1,6 @@
+requests==2.32.3
+beautifulsoup4==4.13.3
+langchain==0.3.19
+langchain_community==0.3.18
+langchain-huggingface==0.1.2
+langchain-chroma==0.2.2
